@@ -1,0 +1,1 @@
+connection = pymysql.connect()
